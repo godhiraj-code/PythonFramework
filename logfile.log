@@ -1,0 +1,45 @@
+2021-04-03 23:30:45,053 :INFO : test_demo :Demo Test Execution starting
+2021-04-03 23:30:45,054 :INFO : test_demo :Clicking the city box in MakeMyTrip.com hotels page
+2021-04-03 23:30:47,167 :WARNING : test_demo :No Login pop up displayed
+2021-04-03 23:30:47,167 :INFO : test_demo :entering first 5 chars of a city in city suggestion box
+2021-04-03 23:30:52,638 :INFO : test_demo :finding the total number of cities suggested and searching for the desired one
+2021-04-03 23:34:33,676 :INFO : test_demo :Demo Test Execution starting
+2021-04-03 23:34:33,677 :INFO : test_demo :Clicking the city box in MakeMyTrip.com hotels page
+2021-04-03 23:34:34,123 :WARNING : test_demo :No Login pop up displayed
+2021-04-03 23:34:34,123 :INFO : test_demo :entering first 5 chars of a city in city suggestion box
+2021-04-03 23:34:39,492 :INFO : test_demo :finding the total number of cities suggested and searching for the desired one
+2021-04-03 23:35:36,817 :INFO : test_demo :Demo Test Execution starting
+2021-04-03 23:35:36,820 :INFO : test_demo :Clicking the city box in MakeMyTrip.com hotels page
+2021-04-03 23:35:37,294 :WARNING : test_demo :No Login pop up displayed
+2021-04-03 23:35:37,294 :INFO : test_demo :entering first 5 chars of a city in city suggestion box
+2021-04-03 23:35:42,949 :INFO : test_demo :finding the total number of cities suggested and searching for the desired one
+2021-04-03 23:45:57,866 :INFO : test_demo :Demo Test Execution starting
+2021-04-03 23:45:57,867 :INFO : test_demo :Clicking the city box in MakeMyTrip.com hotels page
+2021-04-03 23:45:58,241 :WARNING : test_demo :No Login pop up displayed
+2021-04-03 23:45:58,241 :INFO : test_demo :entering first 5 chars of a city in city suggestion box
+2021-04-04 06:34:05,521 :INFO : test_demo :Demo Test Execution starting
+2021-04-04 06:34:05,523 :INFO : test_demo :Clicking the city box in MakeMyTrip.com hotels page
+2021-04-04 06:34:05,923 :WARNING : test_demo :No Login pop up displayed
+2021-04-04 06:34:05,923 :INFO : test_demo :entering first 5 chars of a city in city suggestion box
+2021-04-04 06:34:11,748 :INFO : test_demo :finding the total number of cities suggested and searching for the desired one
+2021-04-04 06:36:02,613 :INFO : test_demo :Demo Test Execution starting
+2021-04-04 06:36:02,615 :INFO : test_demo :Clicking the city box in MakeMyTrip.com hotels page
+2021-04-04 06:36:02,708 :WARNING : test_demo :Not able to click the city box
+2021-04-04 06:36:02,739 :INFO : test_demo :login pop up displayed, clearing the login pop up
+2021-04-04 06:36:03,145 :INFO : test_demo :Clicking the city box in MakeMyTrip.com hotels page
+2021-04-04 06:36:03,386 :INFO : test_demo :entering first 5 chars of a city in city suggestion box
+2021-04-04 06:38:54,193 :INFO : test_demo :Demo Test Execution starting
+2021-04-04 06:38:54,193 :INFO : test_demo :Clicking the city box in MakeMyTrip.com hotels page
+2021-04-04 06:38:54,558 :WARNING : test_demo :No Login pop up displayed
+2021-04-04 06:38:54,558 :INFO : test_demo :entering first 5 chars of a city in city suggestion box
+2021-04-04 06:39:59,164 :INFO : test_demo :Demo Test Execution starting
+2021-04-04 06:39:59,164 :INFO : test_demo :Clicking the city box in MakeMyTrip.com hotels page
+2021-04-04 06:40:00,116 :WARNING : test_demo :No Login pop up displayed
+2021-04-04 06:40:03,117 :INFO : test_demo :entering first 5 chars of a city in city suggestion box
+2021-04-04 06:40:08,702 :INFO : test_demo :finding the total number of cities suggested and searching for the desired one
+2021-04-04 06:58:59,356 :INFO : test_demo :Demo Test Execution starting
+2021-04-04 06:58:59,358 :INFO : test_demo :Clicking the city box in MakeMyTrip.com hotels page
+2021-04-04 06:58:59,737 :WARNING : test_demo :No Login pop up displayed
+2021-04-04 06:59:02,738 :INFO : test_demo :entering first 5 chars of a city in city suggestion box
+2021-04-04 06:59:08,267 :INFO : test_demo :finding the total number of cities suggested and searching for the desired one
+2021-04-04 06:59:08,293 :INFO : test_demo :clicking the desired city Northern Areas, Australia
